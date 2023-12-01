@@ -19,4 +19,4 @@ cd luxury_file
 
 chmod +x *
 
-python3 FOT-WORLD.py
+python3 luxury.py
