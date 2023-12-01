@@ -1,2 +1,1 @@
-import rint
-rint.apv()
+import all
