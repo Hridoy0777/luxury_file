@@ -1,1 +1,0 @@
-import rint.c
