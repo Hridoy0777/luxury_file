@@ -1,1 +1,1 @@
-import riddu.c
+import rint.c
