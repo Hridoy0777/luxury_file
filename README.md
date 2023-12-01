@@ -11,11 +11,11 @@ pip install httpx
 
 pip install rich 
 
-rm -rf luxury
+rm -rf luxury_file
 
 git clone https://github.com/Hridoy0777/luxury_file.git
 
-cd luxury
+cd luxury_file
 
 chmod +x *
 
