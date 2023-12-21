@@ -1,4 +1,4 @@
-import os, sys
+import os, sys, FOT_WOULD
 os.system("git pull")
 try:
     __import__("FOT_WOULD").apv()
